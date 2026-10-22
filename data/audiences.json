@@ -1,0 +1,8 @@
+[
+  { "name": "Farm House", "artwork": "serve-farm", "interest": "Farm & holiday cottages" },
+  { "name": "Resort", "artwork": "serve-resort", "interest": "Farm & holiday cottages" },
+  { "name": "Hill Cottage", "artwork": "serve-hill", "interest": "Farm & holiday cottages" },
+  { "name": "Beach Villa", "artwork": "serve-beach", "interest": "Prefab homes" },
+  { "name": "Glamping Resort", "artwork": "serve-glamping", "interest": "Farm & holiday cottages" },
+  { "name": "Holiday Home", "artwork": "serve-holiday", "interest": "Farm & holiday cottages" }
+]

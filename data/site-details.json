@@ -1,0 +1,36 @@
+{
+  "benefits": [
+    { "title": "Faster Project Execution", "icon": "Clock3", "short": "Indicative timelines of 30–45 days, depending on size, specifications, and site readiness.", "text": "Factory manufacturing helps organise fabrication before delivery. The indicative 30–45 day timeline depends on unit size, final specifications, site readiness, transport, and installation requirements." },
+    { "title": "Factory-Controlled Manufacturing", "icon": "Factory", "short": "A more organised approach to fabrication and assembly before your unit reaches the site.", "text": "A dedicated manufacturing process supports a more organised approach to fabrication and assembly, with greater control over production activities before the unit reaches your site." },
+    { "title": "Purpose-Built Steel Structures", "icon": "ShieldCheck", "short": "Steel modular structures specified around their intended use and local site conditions.", "text": "Our modular units use steel-based construction for practical, modern applications. Final structural specifications should be selected according to the unit’s intended use and site conditions." },
+    { "title": "Comfort Beyond the Structure", "icon": "Sun", "short": "Explore insulation, ventilation, and waterproofing options suited to your climate and application.", "text": "Discuss insulation, thermal comfort, waterproofing, ventilation, and window options for your site. Indoor comfort depends on the complete design, materials, orientation, and installation quality." },
+    { "title": "Modern, Functional Interiors", "icon": "Ruler", "short": "Available kitchen, bathroom, electrical, furnishing, and window options help make a space practical.", "text": "Available features may include a kitchen, bathroom, electrical fittings, air conditioning, furniture, and large windows. The inclusions depend on your selected model and agreed specifications." },
+    { "title": "A Practical Approach to Cost", "icon": "Wallet", "short": "Discuss the design, agreed scope, and project inclusions before proceeding.", "text": "A defined design and scope help make the project quotation easier to assess. Confirm the unit, transportation, installation, foundation or site preparation, utilities, and any additional charges in the final quotation." },
+    { "title": "One Connected Process", "icon": "Truck", "short": "Design selection, manufacturing, transportation, and installation brought into one connected process.", "text": "Smart Cubes brings design selection, manufacturing, transportation, and installation together. Confirm the exact scope, site preparation requirements, and related charges in your project quotation." },
+    { "title": "Designed for Different Applications", "icon": "Shapes", "short": "Available configurations serve homes, cottages, hospitality accommodation, and practical workspaces.", "text": "From compact homes and farm cottages to resort units, studios, and office cabins, available configurations can serve a range of suitable applications. The right option depends on intended use and site requirements." }
+  ],
+  "process": [
+    { "number": "01", "title": "Choose your space", "icon": "Ruler", "text": "Discuss intended use, preferred size, available layouts, and the features your project needs." },
+    { "number": "02", "title": "Factory manufacturing", "icon": "Factory", "text": "Your selected steel modular structure moves through fabrication and assembly in a controlled factory environment." },
+    { "number": "03", "title": "Plan the delivery", "icon": "Truck", "text": "Confirm transport, site access, and preparation requirements before the unit is delivered." },
+    { "number": "04", "title": "Install on site", "icon": "House", "text": "Transportation and installation follow the scope and site requirements agreed in your project quotation." }
+  ],
+  "specifications": [
+    { "title": "Planned unit sizes", "value": "12 × 20 ft · 12 × 40 ft", "icon": "Ruler", "text": "Confirm the available dimensions and specifications with our team." },
+    { "title": "Living configurations", "value": "Studio · 1 BHK · 2 BHK", "icon": "House", "text": "Choose from available designs based on your intended use and site." },
+    { "title": "Interior options", "value": "Kitchen · Bathroom · Electrical", "icon": "Shapes", "text": "Finishes, insulation, and furnishing options depend on the selected model." }
+  ],
+  "checklist": [
+    { "title": "Location & intended use", "icon": "MapPin", "text": "Tell us the city or area and whether you need a home, holiday retreat, guest unit, or workspace." },
+    { "title": "Size & available features", "icon": "Ruler", "text": "Share your preferred layout, approximate budget, and priorities for the interior." },
+    { "title": "Site access & preparation", "icon": "ClipboardList", "text": "Discuss access, utilities, local permissions, and preparation requirements before installation." }
+  ],
+  "audienceDetails": [
+    { "title": "Farmland & farmhouse owners", "icon": "Trees", "text": "Create a comfortable space for weekends, family time, or guests, subject to suitable land use and local permissions." },
+    { "title": "Resorts & homestays", "icon": "Building2", "text": "Explore modular cottages and rooms for additional guest accommodation, with practical layouts and a consistent design approach." },
+    { "title": "Weekend & second-home buyers", "icon": "Sun", "text": "Consider compact homes and cottages for personal retreats and time away from the city." },
+    { "title": "Individual homebuyers", "icon": "House", "text": "Compare available studio, 1 BHK, and 2 BHK configurations against your intended use and site requirements." },
+    { "title": "Real estate developers", "icon": "Layers3", "text": "Discuss suitable development projects, additional accommodation, and project-specific space requirements with our team." },
+    { "title": "Businesses & commercial projects", "icon": "BriefcaseBusiness", "text": "Explore office cabins and site offices, with options for layout, electrical fittings, insulation, and installation." }
+  ]
+}

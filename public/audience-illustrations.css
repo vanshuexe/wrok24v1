@@ -1,0 +1,17 @@
+/* Reuse the supplied reference artwork as a CSS sprite, without altering it. */
+.serve-artwork{--serve-size:225px;--serve-scale:1;display:block!important;position:relative;width:var(--serve-size)!important;height:var(--serve-size)!important;overflow:hidden;margin:0 auto!important;flex-shrink:0;background:white}
+.serve-artwork:before{content:"";position:absolute;left:0;top:0;width:225px;height:225px;background-image:url('/images/who-we-serve-reference.png');background-repeat:no-repeat;background-size:1072px 676px;background-position:var(--sprite-x) var(--sprite-y);transform:scale(var(--serve-scale));transform-origin:top left}
+.serve-farm{--sprite-x:-144px;--sprite-y:-89px}.serve-resort{--sprite-x:-418px;--sprite-y:-88px}.serve-hill{--sprite-x:-689px;--sprite-y:-90px}.serve-beach{--sprite-x:-147px;--sprite-y:-390px}.serve-glamping{--sprite-x:-416px;--sprite-y:-390px}.serve-holiday{--sprite-x:-689px;--sprite-y:-397px}
+.reference-home #comp-mrektk5u .source-audience-grid{max-width:900px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:48px 45px;padding:0 0 38px;margin:auto}
+.reference-home #comp-mrektk5u .source-audience-grid a{display:block;text-align:center;text-decoration:none;color:#3e4c13}
+.reference-home #comp-mrektk5u .source-audience-grid a:first-child{color:#333}
+.reference-home #comp-mrektk5u .source-audience-grid h3{font:500 20px/1.4 Arial,Helvetica,sans-serif;margin:12px 0 0}
+.audience-section .audience-grid{max-width:900px;grid-template-columns:repeat(3,minmax(0,1fr));gap:48px 45px;margin:26px auto 20px}
+.audience-section .audience-card{display:block;padding:0;background:white;border:0;text-align:center}
+.audience-section .audience-card h3{font:500 20px/1.4 Arial,Helvetica,sans-serif;margin:12px 0 0;color:#3e4c13}
+.audience-section .audience-card:first-child h3{color:#333}
+.audience-section #audience-heading{font-family:Arial,Helvetica,sans-serif;font-size:50px;font-weight:600;margin-bottom:20px}
+.audience-section .section-content{padding-top:20px;padding-bottom:40px}
+@media(max-width:850px){.serve-artwork{--serve-size:180px;--serve-scale:.8}.audience-section .audience-grid,.reference-home #comp-mrektk5u .source-audience-grid{column-gap:18px;row-gap:36px}.audience-section .audience-card h3,.reference-home #comp-mrektk5u .source-audience-grid h3{font-size:18px}}
+@media(max-width:600px){.serve-artwork{--serve-size:150px;--serve-scale:.66666667}.audience-section .audience-grid,.reference-home #comp-mrektk5u .source-audience-grid{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:10px;row-gap:30px}.audience-section .audience-card h3,.reference-home #comp-mrektk5u .source-audience-grid h3{font-size:16px;margin-top:9px}.audience-section #audience-heading{font-size:34px}}
+@media(max-width:350px){.serve-artwork{--serve-size:130px;--serve-scale:.57777778}}

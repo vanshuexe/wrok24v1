@@ -1,0 +1,8 @@
+{
+  "name": "smart-cubes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev --hostname 0.0.0.0", "build": "next build", "start": "next start --hostname 0.0.0.0", "typecheck": "node node_modules/typescript/bin/tsc --noEmit" },
+  "dependencies": { "next": "16.4.0", "react": "19.3.0", "react-dom": "19.3.0", "lucide-react": "1.46.0" },
+  "devDependencies": { "typescript": "5.8.3", "@types/node": "22.20.2", "@types/react": "19.3.0", "@types/react-dom": "19.3.0" }
+}
